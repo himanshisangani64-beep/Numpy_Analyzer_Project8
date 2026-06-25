@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a **Numpy Analyzer ** developed using Python Object-Oriented Programming (OOP) and Numpy Function  concepts. The system allows users to create and manage Numerical data  demonstrate important OOP encapsulation, class methods, andStatic Method and  object relationships Numpy Function  .
+This project is a **Numpy Analyzer** developed using Python  (OOP) and Numpy Function  concepts. The system allows users to create and manage Numerical data  demonstrate important OOP encapsulation, class methods, andStatic Method and  object relationships Numpy Function  .
 
 ## Objectives
 
@@ -22,12 +22,16 @@ This project is a **Numpy Analyzer ** developed using Python Object-Oriented Pro
 * Check input validation
 * Menu-driven interactive system
 
-## OOP Concepts Used
+## OOP Concepts  And Numpy Library Used
 
 ### Numpy 
 
 * Numpy use Data Analysis 
 
+
+### Broadcasting 
+
+* Multiply in np.dot() and addtion, Subtraction,Division
 
 ### Encapsulation
 
